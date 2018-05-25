@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "data": {
+        "package": "com.tencent.tim",
+        "rules": [
+            {
+                "id": "downloads",
+                "source_path": "tencent/TIMfile_recv",
+                "type": "downloads"
+            }
+        ]
+    }
+}

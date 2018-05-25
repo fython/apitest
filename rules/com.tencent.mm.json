@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "data": {
+        "package": "com.tencent.mm",
+        "rules": [
+            {
+                "id": "saved_pictures",
+                "source_path": "tencent/MicroMsg/WeChat",
+                "type": "saved_pictures"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "data": {
+        "package": "jp.pxv.android",
+        "rules": [
+            {
+                "id": "saved_pictures",
+                "source_path": "pixiv",
+                "type": "saved_pictures"
+            }
+        ]
+    }
+}
