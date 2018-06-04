@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "data": {
+        "package": "com.weico.international",
+        "rules": [
+            {
+                "id": "saved_pictures",
+                "source_path": "WeiboInternational/weiboIntl_image",
+                "type": "saved_pictures",
+                "always_show": true,
+                "allow_child": false
+            }
+        ]
+    }
+}

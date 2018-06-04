@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "data": {
+        "package": "com.netease.cloudmusic",
+        "rules": [
+            {
+                "id": "saved_music",
+                "source_path": "netease/cloudmusic/Music",
+                "type": "saved_music",
+                "always_show": true,
+                "allow_child": false
+            }
+        ]
+    }
+}
